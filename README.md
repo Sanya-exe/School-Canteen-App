@@ -1,6 +1,6 @@
 # School Canteen App
 
-A simple frontend prototype for a school canteen ordering system, built as part of the Edzy frontend screening task.
+A simple frontend prototype for a school canteen ordering system.
 
 ## What does it do?
 
